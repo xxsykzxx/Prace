@@ -12,4 +12,6 @@ Nefunguje jak má
 1. Neměl by přijít zálohový list (v pořádku, funguje správně)
 2. Němela by se započítat doprava (v pořádku) -> je následně dopočítaná
 3. Zobrazuje se "Platba předem" (v pořádku)
-4. Platba předem (v pořádku)
+4. V "Objednávce přijaté" Platba předem (v pořádku)
+
+![platba predem](https://user-images.githubusercontent.com/59166385/158177320-f02ea4c6-446e-4edd-972f-337a25fe201d.png)
